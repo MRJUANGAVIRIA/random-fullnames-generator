@@ -1,0 +1,11 @@
+{
+  "name": "random-fullnames-generator",
+  "version": "1.0.0",
+  "description": "Random full-names generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Gaviria <juan.gaviria@kommit.co>",
+  "license": "ISC"
+}
