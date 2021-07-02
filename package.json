@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Juan Gaviria <juan.gaviria@kommit.co>",
-  "license": "ISC"
+  "author": "Juan Gaviria <juanga_11@hotmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/MRJUANGAVIRIA/random-fullnames-generator"
 }
